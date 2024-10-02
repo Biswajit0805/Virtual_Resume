@@ -1,0 +1,69 @@
+[
+ 
+  
+  
+  {
+    "name": "News Hub",
+    "desc": "Native android app built using Javascript, XML.,HTML,CSS,React.js.API Retrofit & Glide dependencies. Provides different category news.",
+    "image":"newshub",
+    "category": "LAMP Stack",
+    "links": {
+      "view": "https://github.com/Biswajit0805/newzhub",
+      "code": "https://github.com/Biswajit0805/newzhub"
+    }
+  },
+ 
+ 
+ 
+  
+  
+  {
+    "name": "E-commerce",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. using HTML,CSS,Javascript,PHP,SQL, With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "ecommerce",
+    "category": "LAMP Stack",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+ 
+  
+ 
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "Basic Web",
+    "links": {
+      "view": "https://github.com/Biswajit0805/Portfolio-Website-/tree/main/Portfolio-Website-main/Portfolio-Website-main",
+      "code": "https://github.com/Biswajit0805/Portfolio-Website-/tree/main/Portfolio-Website-main/Portfolio-Website-main"
+    }
+  },
+  
+{
+    "name": "Food Delivery Website",
+    "desc": "Basic food website landing page built using HTML, CSS, Javascript, Bootstrap.",
+    "image": "food",
+    "category": "Basic Web",
+    "links": {
+      "view": "https://github.com/Biswajit0805/Food_Ordering_site",
+      "code": "https://github.com/Biswajit0805/Food_Ordering_site"
+    }
+  },
+
+  {
+    
+    "name": "MY-Vertual-Assistant",
+    "desc": "Basic MY Vertual Assistant built using HTML, CSS, Javascript",
+    "image": "logo",
+    "category": "Basic Web",
+    "links": {
+      "view": "https://github.com/Biswajit0805/MY-Vertual-Assistant",
+      "code": "https://github.com/Biswajit0805/MY-Vertual-Assistant"
+
+
+  }
+}
+]
